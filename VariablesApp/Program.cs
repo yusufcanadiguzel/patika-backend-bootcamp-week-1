@@ -40,6 +40,9 @@ Console.WriteLine("-----------------------------------------------------");
 int totalPrice = firstProduct + secondProduct;
 
 //Bilgilerin ekrana yazilmasi
-Console.WriteLine($"{tcNumber} Tc numarali {ad} {soyad} isimli kisi icin kayit olusturulmustur.");
+Console.WriteLine($"{tcNumber} Tc numarali {firstName} {lastName} isimli kisi icin kayit olusturulmustur.");
 Console.WriteLine($"{phoneNumber} telefon numarasina bildirim mesaji gonderilmistir.");
 Console.WriteLine($"{totalPrice} toplam harcama karsiligi kazanilan 10% patika puan miktari -> {totalPrice / 10} TL'dir.");
+
+//Telefon numarasinda string kullanmayi tercih ettim cunku uzerinde herhangi bir matematiksel islem yapilmayacak
+//Urun fiyatinin int olma sebebi ise uzerinde matematiksel islem yapilacak olmasi
