@@ -7,12 +7,12 @@ Console.WriteLine();
 
 //Ad
 Console.Write("Adi: ");
-string ad = Console.ReadLine()!;
+string firstName = Console.ReadLine()!;
 Console.WriteLine();
 
 //Soyad
 Console.Write("Soyadi: ");
-string soyad = Console.ReadLine()!;
+string lastName = Console.ReadLine()!;
 Console.WriteLine();
 
 //Telefon numarasi
@@ -22,7 +22,7 @@ Console.WriteLine();
 
 //Yas
 Console.Write("Yas: ");
-int yas = int.Parse(Console.ReadLine()!);
+int age = int.Parse(Console.ReadLine()!);
 Console.WriteLine();
 
 //Ilk urun fiyati
