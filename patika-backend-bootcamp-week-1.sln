@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfSwitchPractice", "IfSwitc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhoWantstoBeaMillionaire", "WhoWantstoBeaMillionaire\WhoWantstoBeaMillionaire.csproj", "{FCB033F3-807A-49B6-9629-2B8D9B23CB0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForExamples", "ForExamples\ForExamples.csproj", "{10115DCB-4020-4187-9130-030179A4E1AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FCB033F3-807A-49B6-9629-2B8D9B23CB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCB033F3-807A-49B6-9629-2B8D9B23CB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCB033F3-807A-49B6-9629-2B8D9B23CB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10115DCB-4020-4187-9130-030179A4E1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10115DCB-4020-4187-9130-030179A4E1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10115DCB-4020-4187-9130-030179A4E1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10115DCB-4020-4187-9130-030179A4E1AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

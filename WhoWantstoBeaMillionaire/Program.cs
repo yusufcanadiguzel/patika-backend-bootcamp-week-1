@@ -10,7 +10,7 @@ Console.Write("Cevabınız: ");
 userAnswer = Console.ReadLine()!.ToLower();
 
 //cevap kontrol
-if (userAnswer == "lama")
+if (userAnswer == "a")
     correctAnswerCount++;
 
 //ikinci soru
@@ -22,10 +22,10 @@ Console.Write("Cevabınız: ");
 userAnswer = Console.ReadLine()!.ToLower();
 
 //cevap kontrol
-if (userAnswer == "ay")
+if (userAnswer == "a")
     correctAnswerCount++;
 
-//sonuc kontrol
+//son soru kontrol
 if (correctAnswerCount < 2)
 {
     //ucuncu soru
@@ -37,12 +37,12 @@ if (correctAnswerCount < 2)
     userAnswer = Console.ReadLine()!.ToLower();
 
     //cevap kontrol
-    if (userAnswer == "12")
+    if (userAnswer == "b")
         correctAnswerCount++;
 }
 
+//sonuc kontrol
 if(correctAnswerCount == 3 || correctAnswerCount == 2)
     Console.WriteLine("Tebrikler! 1 Milyon TL'lik büyük ödülü kazandınız!");
 else
     Console.WriteLine("Maalesef ödülü kazanamadınız.");
-
