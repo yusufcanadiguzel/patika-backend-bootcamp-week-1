@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesApp", "VariablesAp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfPractice", "IfPractice\IfPractice.csproj", "{B95FBCE9-A763-4F68-A20D-92C03FD61845}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfSwitchPractice", "IfSwitchPractice\IfSwitchPractice.csproj", "{21DD0662-D7BB-4510-A42A-23E48F386A99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfSwitchPractice", "IfSwitchPractice\IfSwitchPractice.csproj", "{21DD0662-D7BB-4510-A42A-23E48F386A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhoWantstoBeaMillionaire", "WhoWantstoBeaMillionaire\WhoWantstoBeaMillionaire.csproj", "{FCB033F3-807A-49B6-9629-2B8D9B23CB0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{21DD0662-D7BB-4510-A42A-23E48F386A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21DD0662-D7BB-4510-A42A-23E48F386A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21DD0662-D7BB-4510-A42A-23E48F386A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB033F3-807A-49B6-9629-2B8D9B23CB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB033F3-807A-49B6-9629-2B8D9B23CB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB033F3-807A-49B6-9629-2B8D9B23CB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB033F3-807A-49B6-9629-2B8D9B23CB0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
