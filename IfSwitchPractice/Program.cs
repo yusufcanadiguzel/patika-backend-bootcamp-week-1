@@ -38,3 +38,5 @@ else if(chosenProduct == "diger")
     Console.WriteLine("Sectiginiz mevyenin fiyati = 4 TL");
 else
     Console.WriteLine("Tercih ettiginiz meyve stokta bulunmamaktadir.");
+
+//Bence bu sorunu switch-case yapısı ile cozmek daha uygun. Bu yapi kullanildiginda kodun okunabilirligi ve kontrolu kolaylasiyor.
