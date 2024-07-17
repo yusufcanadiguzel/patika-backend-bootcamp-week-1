@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileDoWhilePractice", "Whi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResortAppPractice", "ResortAppPractice\ResortAppPractice.csproj", "{27D224F4-8557-4246-B4A6-C4FA7F46A895}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsIntro", "MethodsIntro\MethodsIntro.csproj", "{70732F38-0C5F-49FB-81A4-C2E8FC3229DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{27D224F4-8557-4246-B4A6-C4FA7F46A895}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27D224F4-8557-4246-B4A6-C4FA7F46A895}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27D224F4-8557-4246-B4A6-C4FA7F46A895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70732F38-0C5F-49FB-81A4-C2E8FC3229DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70732F38-0C5F-49FB-81A4-C2E8FC3229DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70732F38-0C5F-49FB-81A4-C2E8FC3229DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70732F38-0C5F-49FB-81A4-C2E8FC3229DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
