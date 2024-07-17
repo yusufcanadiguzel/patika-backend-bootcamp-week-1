@@ -11,13 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfPractice", "IfPractice\If
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfSwitchPractice", "IfSwitchPractice\IfSwitchPractice.csproj", "{21DD0662-D7BB-4510-A42A-23E48F386A99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhoWantstoBeaMillionaire", "WhoWantstoBeaMillionaire\WhoWantstoBeaMillionaire.csproj", "{FCB033F3-807A-49B6-9629-2B8D9B23CB0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhoWantstoBeaMillionaire", "WhoWantstoBeaMillionaire\WhoWantstoBeaMillionaire.csproj", "{FCB033F3-807A-49B6-9629-2B8D9B23CB0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForExamples", "ForExamples\ForExamples.csproj", "{10115DCB-4020-4187-9130-030179A4E1AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForExamples", "ForExamples\ForExamples.csproj", "{10115DCB-4020-4187-9130-030179A4E1AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhilePractices", "WhilePractices\WhilePractices.csproj", "{1736B540-2C6B-4DC7-82EC-1EF7DED98D84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhilePractices", "WhilePractices\WhilePractices.csproj", "{1736B540-2C6B-4DC7-82EC-1EF7DED98D84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileDoWhilePractice", "WhileDoWhilePractice\WhileDoWhilePractice.csproj", "{50DD943B-B54B-4122-A993-C6D1313F82C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileDoWhilePractice", "WhileDoWhilePractice\WhileDoWhilePractice.csproj", "{50DD943B-B54B-4122-A993-C6D1313F82C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResortAppPractice", "ResortAppPractice\ResortAppPractice.csproj", "{27D224F4-8557-4246-B4A6-C4FA7F46A895}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{50DD943B-B54B-4122-A993-C6D1313F82C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50DD943B-B54B-4122-A993-C6D1313F82C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50DD943B-B54B-4122-A993-C6D1313F82C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D224F4-8557-4246-B4A6-C4FA7F46A895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D224F4-8557-4246-B4A6-C4FA7F46A895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D224F4-8557-4246-B4A6-C4FA7F46A895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D224F4-8557-4246-B4A6-C4FA7F46A895}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
